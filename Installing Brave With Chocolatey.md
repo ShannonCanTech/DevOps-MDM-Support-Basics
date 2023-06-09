@@ -2,9 +2,13 @@ Instructions to bypass download errors.
 Use chocolatey
 
 Close any open command prompts
+
 Open new command promt
+
 Type `choco install brave`
+
 Type `Y` to continue
+
 Type `Y` again
 
     The install of brave was successful.
